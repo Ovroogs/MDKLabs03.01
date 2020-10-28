@@ -1,0 +1,8 @@
+.box_main{
+background-color: lightgreen;
+border:10px solid lightgreen;
+}
+
+.btn, .text{
+color:DarkMagenta;
+}
