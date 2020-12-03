@@ -1,0 +1,21 @@
+.wind{
+	background:#21283a;
+}
+
+.red{
+	color: red;
+}
+
+.green{
+	color: green;
+}
+
+.blue{
+	color: blue;
+}
+
+.name{
+	font-size: 20px;
+	font-weight: bolder;
+	font-style: oblique;
+}
