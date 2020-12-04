@@ -1,0 +1,17 @@
+.wind{
+	background:#21283a;
+}
+.btn{
+	background:#2d3540;
+	color:#eb1f1f;
+}
+.btn:hover{
+	background:#2d3560;
+}
+.by, .op{
+	color: green;
+}
+.winName{
+	font-size: 30px;
+	color: red;
+}
